@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Sofi</h1>
-<h3 align="center">I'm a Full-Stack Developer and Biomedical Engineer</h3> <h3 align="rigth"> <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" /></h3>
+<h3 align="center">I'm a Full-Stack Developer and Biomedical Engineer</h3> <h3 align="center"> <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" /></h3>
 
 - 🔭 I’m currently working on an e-commerce called [HeladitosApp🍨](https://github.com/HeladitoApp/pf-Heladito)
 
